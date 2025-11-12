@@ -64,8 +64,8 @@ Currently, I’m working as **Assistant Project Manager (IT & MIS)** at **Al-Fat
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanuxaman&theme=radical" />
 </p>
 
 ---
@@ -79,16 +79,16 @@ Currently, I’m working as **Assistant Project Manager (IT & MIS)** at **Al-Fat
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mdrony"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:hasanuxaman.rony@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hasanuxaman"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hasanuxaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### ✨ Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=hasanuxaman&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+💡 *Coffee Lover ☕ | Tech Enthusiast 💻* 
