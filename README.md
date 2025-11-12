@@ -7,15 +7,15 @@
 
 ### 👨‍💻 About Me
 I'm a passionate **Full Stack Software Developer** with over **8 years of professional experience** in designing and developing enterprise-grade applications.  
-Currently, I’m working as **Assistant Project Manager (IT & MIS)** at **Al-Fatah Group**, leading ERP development projects focusing on **Procurement, HRM, and Accounting** modules.
+Currently, I’m working as **Sr. Software Developer** at **DEKKO ISHO GROUP**, leading ERP development projects focusing on **Procurement,INVENTORY,HRM, and Accounting** modules.
 
 - 🔭 I’m currently developing **Enterprise ERP Software** (Procurement, HRM, Accounting, Inventory).  
 - 🌱 I’m learning **React.js** and improving my **cloud & DevOps** skills.  
 - 💬 Ask me about **ASP.NET Core, C#, SQL Server, Dapper, Entity Framework, React.js**.  
 - ⚙️ I love writing **clean, optimized, and maintainable code**.  
 - 🧑‍🏫 I mentor junior developers and conduct internal code review sessions.  
-- 🎯 Goal: To work in a **dynamic software company** in **Australia or New Zealand**.  
-- ⚡ Fun fact: I can debug faster than I cook noodles 🍜😄  
+- 🎯 Goal: To work in a **dynamic software company** in **Australia or New Zealand Or Europe**.  
+- ⚡ Fun fact: I can debug faster than I Fix Any Codeing Issues.😄  
 
 ---
 
