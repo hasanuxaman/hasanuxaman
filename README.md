@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/FXNvnfr/Black-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="MD Hasanuzzaman Rony Banner" width="100%" />
+  <img src="https://www.linkedin.com/in/hasanuxaman/overlay/background-image/" alt="MD Hasanuzzaman Rony Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Md Hasanuzzaman Rony</span></h1>
