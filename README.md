@@ -10,7 +10,7 @@
 🚀 Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%"/>
 </p>
 </div>
 
