@@ -32,6 +32,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-0078D4?style=for-the-badge&logo=database&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-6A0DAD?style=for-the-badge)
+![AutoMapper](https://img.shields.io/badge/Dapper-6A0DAD?style=for-the-badge)
+
 
 ### **🎨 Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
