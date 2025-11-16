@@ -75,83 +75,7 @@ Seeking opportunities in **Australia, New Zealand, or Europe** to contribute to 
 
 ---
 
-# 💼 Enterprise Projects  
-
-## 🏢 **Comprehensive ERP System**  
-Multi-module ERP platform for group-level operations.  
-
-**Modules:** HRM, Procurement, Inventory, Accounting, Sales  
-**Tech Stack:** ASP.NET Core, EF Core, React, SQL Server  
-**Impact:** Used by 500+ active users across multiple business units  
-
----
-
-## 📦 **Procurement & Inventory Management**  
-High-performance stock & procurement automation system  
-
-- Architecture: Microservices with .NET Core  
-- Data Access: Dapper for lightning-fast queries  
-- UI: Razor Pages with real-time stock updates  
-- Performance: 10,000+ daily transactions handled efficiently  
-
----
-
-## 🏦 **BankUltimus – Core Banking System**  
-
-Large-scale banking software with:  
-- Account Management  
-- Transactions  
-- User Portal  
-- SQL Server + Oracle integrations  
-- Secure, role-based multi-layer authentication  
-
-Supports **50,000+ customer accounts**  
-
----
-
-## 📑 **Dynamic Approval System**  
-Custom workflow engine + dynamic form builder  
-
-- Drag & drop form creation  
-- Multi-level approval pipeline  
-- ASP.NET MVC + ADO.NET  
-- Reduced approval time by **70%**  
-
----
-
-## 🇧🇩 **VAT Management Software**  
-
-Tax compliance automation  
-- Mushok 6.1, 6.2, 6.3, 9.1  
-- ASP.NET Core API + Dapper  
-- Automated reporting & government submission  
-
----
-
-# 📊 GitHub Analytics  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanuxaman&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 Certifications & Achievements  
-
-- 🥇 **HackerRank SQL Certification — Gold Badge**  
-- 👨‍🏫 **Mentored 5+ junior developers**  
-- 📚 **Microsoft Azure Fundamentals — In Progress**  
-- 🚀 **Optimized enterprise SQL queries by up to 85%**
-
----
-
-# 🌟 What I Bring to Your Team  
+# 🌟 What I Bring to Your Team
 
 ```csharp
 public class MySkills
@@ -162,18 +86,25 @@ public class MySkills
     public string SoftSkills => "Mentoring, Code Reviews, Agile Methodology";
     public string Goal => "Build scalable, maintainable enterprise solutions";
 }
+# 📞 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/hasanuzaman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:hasanuxaman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-
-📞 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/hasanuzaman"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://facebook.com"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="mailto:hasanuxaman@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-
-📈 Visitor Analytics
-<p align="center"> <img src="https://profile-counter.glitch.me/hasanuxaman/count.svg" alt="Visitor Count" /> </p>
-
+# 📈 Visitor Analytics
+<p align="center">
+  <img src="https://profile-counter.glitch.me/hasanuxaman/count.svg" alt="Visitor Count" />
+</p>
 
 <div align="center">
-
-💡 "I don't just write code; I build solutions that scale and perform."
+💡 "I don't just write code; I build solutions that scale and perform."  
 ☕ Coffee Lover | 🔧 Problem Solver | 🚀 Tech Innovator
-
-</div> ```
+</div>
