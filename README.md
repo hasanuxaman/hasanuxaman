@@ -36,7 +36,7 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
 
