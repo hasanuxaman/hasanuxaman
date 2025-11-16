@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQG9PpU4G_zuGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704913530990?e=1764806400&v=beta&t=yO-Pfglsugioe5BVC6t6bA1ndpSsGISzfv5xi3S5vQ0" alt="MD Hasanuzzaman Rony Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQG9PpU4G_zuGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704913530990?e=1764806400&v=beta&t=yO-Pfglsugioe5BVC6t6bA1ndpSsGISzfv5xi3S5vQ0" alt="MD Hasanuzzaman Rony Banner" />
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 🚀 Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60%"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
 </div>
 
@@ -44,18 +44,18 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 ![EF Core](https://img.shields.io/badge/EF_Core-0078D4?style=for-the-badge&logo=database&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-6A0DAD?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%2520UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -66,7 +66,6 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 ---
 
@@ -104,17 +103,27 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanuxaman&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanuxaman&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🏆 Certifications & Achievements
 - ✅ HackerRank SQL Certification - Gold Badge  
 - 👨‍🏫 Senior Developer Mentor - Guided 5+ junior developers  
 - 📚 Microsoft Azure Fundamentals - In Progress  
 - 🎯 Performance Optimization - Reduced query times by 85% in enterprise applications  
+
+---
 
 ## 📞 Let's Connect
 
@@ -123,14 +132,22 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanuxaman.rony@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasanuxaman.github.io)
 
+---
+
 ## 📈 Visitor Analytics
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hasanuxaman.hasanuxaman)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hasanuxaman.hasanuxaman" />
+</p>
+
+---
 
 ## How to Reach Me
 **Email:** hasanuxaman.rony@gmail.com  
 **LinkedIn:** [Md Hasanuzzaman Rony](https://www.linkedin.com/in/hasanuxaman)  
 **Location:** Dhaka, Bangladesh  
 **Availability:** Open to new opportunities
+
+---
 
 ## 🔄 Current Focus
 🔭 **Developing:** Enterprise ERP Software modules  
