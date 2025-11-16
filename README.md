@@ -123,8 +123,7 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 
 
 ## 📈 Visitor Analytics
-<img src="https://profile-counter.glitch.me/hasanuxaman/count.svg" alt="Visitor Count" /> 
-
+![Visitors](https://img.shields.io/badge/Visitors-Count-blue)
 ## How to Reach Me
 **Email:** hasanuxaman.rony@gmail.com  
 **LinkedIn:** [Md Hasanuzzaman Rony](https://www.linkedin.com/in/hasanuxaman)  
