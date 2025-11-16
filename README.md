@@ -30,6 +30,7 @@
 ### **💡 Backend**
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Asp.Net Core](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-0078D4?style=for-the-badge&logo=database&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-6A0DAD?style=for-the-badge)
 ![AutoMapper](https://img.shields.io/badge/Dapper-6A0DAD?style=for-the-badge)
