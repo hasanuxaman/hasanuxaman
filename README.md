@@ -8,7 +8,7 @@
 <div align="center">
 👋 Hello, I'm <span style="color:#00BFFF;">Md Hasanuzzaman Rony</span>  
 🚀 Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
-
+</hr>
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
