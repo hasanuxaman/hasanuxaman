@@ -65,6 +65,10 @@ A modular enterprise ERP system for a group of companies
 Inventory & stock management using Web API + Dapper  
 **Tech:** ASP.NET Core API, Dapper, Razor Pages
 
+### 🔹 **VAT-Software**
+Sales And Purchase -**Challan or **(Mushok 6.1,6.2,6.3,...9.1)**** Inventory & stock management using Web API + Dapper  
+**Tech:** ASP.NET Core API, Dapper, Razor Pages
+
 ### 🔹 **BankUltimus – Core Banking**
 Core banking modules: Accounts, Users, Transactions  
 **Tech:** ASP.NET MVC, SQL Server, Oracle
@@ -95,9 +99,9 @@ Configurable form builder using ADO.NET
 # 📫 Connect With Me
 
 <p align="left">
- <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.facebook.com/hasanuxaman.rony"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/hasanuxaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="hasanuxaman.rony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
