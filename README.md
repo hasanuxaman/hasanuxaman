@@ -126,10 +126,10 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 <img src="https://profile-counter.glitch.me/hasanuxaman/count.svg" alt="Visitor Count" /> 
 
 ## How to Reach Me
-**Email: hasanuxaman.rony@gmail.com
-LinkedIn: Md Hasanuzzaman Rony
-Location: Dhaka, Bangladesh
-Availability: Open to new opportunities**
+**Email:** hasanuxaman.rony@gmail.com  
+**LinkedIn:** [Md Hasanuzzaman Rony](https://www.linkedin.com/in/hasanuxaman)  
+**Location:** Dhaka, Bangladesh  
+**Availability:** Open to new opportunities
 
 ## 🔄 Current Focus
 **🔭 Developing: Enterprise ERP Software modules
