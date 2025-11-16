@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://www.linkedin.com/in/hasanuxaman/overlay/background-image/" alt="MD Hasanuzzaman Rony Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQG9PpU4G_zuGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704913530990?e=1764806400&v=beta&t=yO-Pfglsugioe5BVC6t6bA1ndpSsGISzfv5xi3S5vQ0" alt="MD Hasanuzzaman Rony Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Md Hasanuzzaman Rony</span></h1>
