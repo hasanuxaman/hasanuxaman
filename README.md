@@ -121,9 +121,9 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanuxaman.rony@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasanuxaman.github.io)
 
-
 ## 📈 Visitor Analytics
-![Visitors](https://img.shields.io/badge/Visitors-Count-blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hasanuxaman.hasanuxaman)
+
 ## How to Reach Me
 **Email:** hasanuxaman.rony@gmail.com  
 **LinkedIn:** [Md Hasanuzzaman Rony](https://www.linkedin.com/in/hasanuxaman)  
