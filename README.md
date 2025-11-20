@@ -1,10 +1,10 @@
 # 💻 Md Hasanuzzaman Rony | Full Stack .NET Developer
 
 <div align="center">
-👋 Hello, <br>
+Hello, <br>
 <img src="https://img.icons8.com/color/48/000000/user.png" width="24" height="24"/> I'm Md Hasanuzzaman Rony
   
-🚀 Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
+Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
@@ -19,11 +19,11 @@
 ## 📖 About Me
 I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in building robust enterprise solutions. My expertise lies in developing scalable ERP systems and optimizing database performance for high-traffic applications.
 
-**🎯 Career Focus:** Seeking opportunities in Australia, New Zealand, or Europe to contribute to innovative tech teams and grow as a cloud-native developer.
+** Career Focus:** Seeking opportunities in Australia, New Zealand, or Europe to contribute to innovative tech teams and grow as a cloud-native developer.
 
 ---
 
-## 🏆 Key Strengths
+##  Key Strengths
 - **Enterprise Development:** 5+ years in ERP system architecture  
 - **Database Optimization:** SQL performance tuning & query optimization  
 - **Clean Code Advocate:** SOLID principles, design patterns, maintainable architecture  
