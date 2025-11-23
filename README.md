@@ -9,11 +9,6 @@ Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
 </div>
-<!-- Banner -->
-<p align="center">
-  <img src="https://www.linkedin.com/in/hasanuxaman/overlay/background-image" alt="MD Hasanuzzaman Rony Banner" />
-</p>
-
 ---
 
 ## 📖 About Me
