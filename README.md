@@ -9,8 +9,6 @@ Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
 </div>
----
-
 ## 📖 About Me
 I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in building robust enterprise solutions. My expertise lies in developing scalable ERP systems and optimizing database performance for high-traffic applications.
 
