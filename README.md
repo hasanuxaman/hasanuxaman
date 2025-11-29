@@ -4,7 +4,7 @@
 Hello, <br>
 <img src="https://img.icons8.com/color/48/000000/user.png" width="24" height="24"/> I'm Md Hasanuzzaman Rony
   
-Enterprise Full Stack Developer | ERP Specialist | Cloud Enthusiast
+ASP.Net Core -Full Stack Developer | ERP Specialist | Cloud Enthusiast
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </p>
