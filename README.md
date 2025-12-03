@@ -107,7 +107,7 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&layout=compact&theme=tokyonight&hide_border=true" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hasanuxaman)
 </p>
 
 ---
