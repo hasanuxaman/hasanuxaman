@@ -99,15 +99,11 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hasanuxaman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/hasanuxaman/github-stats/main/generated/overview.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasanuxaman&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=hasanuxaman&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/hasanuxaman/github-stats/main/generated/languages.svg" />
 </p>
 ---
 
