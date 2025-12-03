@@ -101,11 +101,11 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hasanuxaman&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 📈 Stats Overview
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&theme=dark&layout=compact&border_radius=10&langs_count=6" alt="Top Languages" />
-  <img height="150em" src="https://streak-stats.demolab.com/?user=hasanuxaman&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanuxaman&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuxaman&layout=compact&theme=dark" />
 </p>
 
 ## 🏆 Certifications & Achievements
