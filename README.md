@@ -143,4 +143,4 @@ I'm a passionate Full Stack ASP.NET Core Developer with extensive experience in 
 🔭 **Developing:** Enterprise ERP Software modules  
 🌱 **Learning:** React.js, Azure Cloud & DevOps  
 💬 **Ask me about:** ASP.NET Core, C#, EF Core, SQL Server  
-⚡ **Fun fact:** I debug faster than I fix coding issues 😄
+⚡ **Fun fact:** I debug faster than I fix coding issues 
