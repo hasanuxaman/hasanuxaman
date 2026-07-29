@@ -1,0 +1,9 @@
+
+File Name: launchSettings.json
+"applicationUrl": "http://*:8550",
+
+
+File Name: Program.cs
+builder.WebHost.UseUrls(
+    "http://0.0.0.0:8550"
+);
